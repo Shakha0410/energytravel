@@ -66,15 +66,51 @@
     font-weight: normal;
     border-radius: 50px;
 }
+.navbartext{
+    font-size: 10px;
+    font-weight: 700;
+    margin-right: 20px;
+}
+.hellobaby{
+    z-index: 99;
+}
+.mynameis{
+    width: 100%;
+ 
+}
+.blitzsdasd{
+    z-index: 99;
+}
+.imagessss{
+    height: 350px;
+    width: 1320px;
+z-index: -5;
 
-
+}
+.energytravell{
+    background-color: #f6effd;
+}
+.buttonlink{
+    background-color: #0ced71;
+    border-radius: 20%;
+    font-size: 14px;
+}
 /*** Navbar ***/
 .nav-bar {
     position: relative;
-    margin-top: 45px;
+    margin-top: 25px;
     padding: 0 3rem;
     transition: .5s;
     z-index: 9999;
+    height: 100px;
+}
+.hellokity{
+    position: absolute;
+
+}
+
+.welcometo{
+    position: absolute;
 }
 
 .nav-bar.sticky-top {
@@ -333,7 +369,9 @@
         padding-left: 4rem;
         padding-right: 4rem;
     }
+    
 }
+
 
 .testimonial-carousel .testimonial-item .border {
     border: 1px dashed rgba(0, 185, 142, .3) !important;
