@@ -21,8 +21,8 @@
 
 .back-to-top {
     position: fixed;
-    right: 65px;
-    bottom: 65px;
+    right: 45px;
+    bottom: 45px;
     z-index: 99;
 }
 
